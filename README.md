@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Engneering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nivsahar2.com
+- 📫 How to reach me: 
 
 LinkedIn:
 https://www.linkedin.com/in/niv-sahar-a815651b7/
