@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nivsahar2
+- 👋 Hi, I’m @NivSahar2
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Engneering
 - 💞️ I’m looking to collaborate on ...
