@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @NivSahar2
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software Engneering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
 LinkedIn:
 https://www.linkedin.com/in/niv-sahar-a815651b7/
+
+Gmail: nivsahar2@gmail.com
+
+Phone: 0506880895
 
 
 <!---
